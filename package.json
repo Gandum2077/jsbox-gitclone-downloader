@@ -1,0 +1,8 @@
+{
+  "main": "index.js",
+  "name": "gitCloneDownloader",
+  "dependencies": {
+    "isomorphic-git": "^0.72.0"
+  },
+  "version": "1.0.0"
+}
